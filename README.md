@@ -62,9 +62,12 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ### Writing
 
+- [The Service Mesh Operator Pattern Explained](https://www.buoyant.io/blog/the-service-mesh-operator-pattern-what-it-actually-does) on the [Buoyant](https://www.buoyant.io/) blog, September 9, 2026.
 - [Does Kubernetes DRA Replace HAMi?](https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/) on the [CNCF](https://www.cncf.io/) blog, August 7, 2026. Which of HAMi's GPU sharing jobs Dynamic Resource Allocation absorbs, which it doesn't, and how HAMi is being rebuilt on top of DRA.
+- [Kubernetes SLOs with Mesh Metrics: 30-Day Implementation Playbook](https://www.buoyant.io/blog/slos-from-mesh-metrics-a-30-day-implementation-playbook) on the [Buoyant](https://www.buoyant.io/) blog, July 29, 2026.
+- [The SRE Guide to Kubernetes Observability: RED vs. USE Methods](https://www.buoyant.io/blog/the-sre-guide-to-kubernetes-observability-red-vs-use-methods) on the [Buoyant](https://www.buoyant.io/) blog, July 2, 2026.
 - [OTel and Mesh-Derived Metrics: A 2026 Reference](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/) on the [CNCF](https://www.cncf.io/) blog, June 29, 2026. A reference on combining OpenTelemetry with service mesh-derived metrics.
-- [OTel and Mesh-Derived Metrics](https://www.buoyant.io/blog/otel-and-mesh-derived-metrics) on the [Buoyant](https://www.buoyant.io/) blog. OpenTelemetry and Linkerd service mesh metrics, where they complement each other and how to combine them in a unified observability pipeline.
+- [OTel and Mesh-Derived Metrics](https://www.buoyant.io/blog/otel-and-mesh-derived-metrics) on the [Buoyant](https://www.buoyant.io/) blog, June 10, 2026. OpenTelemetry and Linkerd service mesh metrics, where they complement each other and how to combine them in a unified observability pipeline.
 
 ### Publications
 
