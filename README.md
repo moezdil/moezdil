@@ -69,7 +69,15 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 - **Scheduling Capabilities Suite**, [CNCF](https://www.cncf.io/). Continuation of the prior scheduling series, work in progress. A scheduler-agnostic evaluation framework for cluster scheduling capabilities, fair-share, backfill, preemption, priority queues, and topology-aware placement, tested against real AI/ML workloads. Starting with Kueue, extended to Volcano and KAI Scheduler as the suite grows.
 - **AI Fabric Specialization for Agentic AI: From General-Purpose Inference to Autonomous, Long-Running Agent Workflows**, [Open Compute Project Foundation](https://www.opencompute.org/). AI HW/SW Co-Design Workgroup, co-author, publishing June 2026.
-- **Cloud Native HPC and AI Infrastructure: Building High-Performance Computing Platforms with Kubernetes**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, ~432 pages, publishing February 2027.
+- **[From Pods to Petaflops: Engineering Production AI and High Performance Computing on Kubernetes](https://www.packtpub.com/en-us/product/from-pods-to-petaflops-9781808349478)**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, 261 pages, publishing February 2027. What you will learn:
+  - Map SLURM, PBS, and LSF concepts to Kubernetes primitives
+  - Schedule batch jobs with Kueue, MultiKueue, JobSet, and LeaderWorkerSet
+  - Run distributed Python and AI workloads with Ray on Kubernetes
+  - Autoscale CPU and GPU nodes with Karpenter and Cluster Autoscaler
+  - Manage and share GPUs with MIG, DRA, DCGM, and HAMi
+  - Design high-throughput storage and checkpoint/restart for HPC and AI
+  - Build finance, genomics, engineering, and AI-training platforms
+  - Operate secure, observable, cost-aware multi-tenant clusters at scale
 
 ### Languages and Tools
 
