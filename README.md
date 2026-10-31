@@ -38,6 +38,9 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 - **CNCF TAG Infrastructure**: Tech Lead, elected Jul 2026 (github.com/cncf/toc, tags/tag-infrastructure)
 - **Nebius Fellow**: Inaugural cohort, 2026 (nebius.com/fellows)
+- **Linkerd Ambassador**: The Linux Foundation, issued Oct 26, 2026, expires Dec 31, 2027
+
+<a href="https://www.credly.com/org/the-linux-foundation/badge/linkerd-ambassador"><img src="assets/linkerd-ambassador-badge.png" alt="Linkerd Ambassador" width="140" /></a>
 
 ### Certifications
 
@@ -52,12 +55,14 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ### Speaking
 
+- **AGNTCon + MCPCon North America 2026**: Speaker
 - **PlatformCon 2026** (June 22–26, 2026): OpenTelemetry After the Hype: Making Observability a Platform Primitive. [Watch on YouTube](https://www.youtube.com/watch?v=IALT3R8mWI8)
 - **OCP AI HW/SW Co-Design Workstream**, Technical Deep-Dives:
   - **MCP Deep-Dive: From Protocol Basics to Custom Extensions** (May 15, 2026): A practical tour of the Model Context Protocol, what it is, why it matters, and how to extend it (JSON-RPC 2.0, Open Spec, Extensible). [Watch on YouTube](https://youtu.be/cPo8DXYj5pE?si=xNbfNpKuOWw2ox3B)
   - **A2A Deep-Dive (Part 2 of a Series): After the Tool Layer: A2A and the Protocols Agents Speak to Each Other** (May 29, 2026): A practical tour of A2A, where it sits next to MCP, and how agents on the wire actually find one another. [Watch on YouTube](https://www.youtube.com/watch?v=eXS9BBAKO8A)
 
 <a href="https://www.virtualbadge.io/certificate-validator?credential=b9e7bf46-ded8-433b-98c3-e2d8d0b4d504"><img src="assets/platformcon-2026-speaker-badge.png" alt="PlatformCon 2026 Speaker Badge" width="140" /></a>
+<a href="https://www.credly.com/org/the-linux-foundation/badge/agntcon-mcpcon-north-america-2026-speaker-badge"><img src="assets/agntcon-mcpcon-na-2026-speaker-badge.png" alt="AGNTCon + MCPCon North America 2026 Speaker Badge" width="140" /></a>
 
 ### Writing
 
