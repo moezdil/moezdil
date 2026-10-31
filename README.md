@@ -38,7 +38,6 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 - **CNCF TAG Infrastructure**: Tech Lead, elected Jul 2026 (github.com/cncf/toc, tags/tag-infrastructure)
 - **Nebius Fellow**: Inaugural cohort, 2026 (nebius.com/fellows)
-- **LiFT Scholarship**: Linux Foundation Training, 2026 (linuxfoundation.org)
 
 ### Certifications
 
