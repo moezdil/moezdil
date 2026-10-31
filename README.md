@@ -71,7 +71,7 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ### Publications
 
-- **AI Fabric Specialization for Agentic AI: From General-Purpose Inference to Autonomous, Long-Running Agent Workflows**, [Open Compute Project Foundation](https://www.opencompute.org/). AI HW/SW Co-Design Workgroup, co-author, publishing June 2026.
+- **AI Fabric Specialization for Agentic AI: From General-Purpose Inference to Autonomous, Long-Running Agent Workflows**, [Open Compute Project Foundation](https://www.opencompute.org/). AI HW/SW Co-Design Workgroup, co-author, 2026.
 - **[From Pods to Petaflops: Engineering Production AI and High Performance Computing on Kubernetes](https://www.packtpub.com/en-us/product/from-pods-to-petaflops-9781808349478)**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, 600+ pages, publishing February 2027. What you will learn:
   - Map SLURM, PBS, and LSF concepts to Kubernetes primitives
   - Schedule batch jobs with Kueue, MultiKueue, JobSet, and LeaderWorkerSet
