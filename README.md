@@ -62,14 +62,14 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ### Writing
 
+- [Does Kubernetes DRA Replace HAMi?](https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/) on the [CNCF](https://www.cncf.io/) blog, August 7, 2026. Which of HAMi's GPU sharing jobs Dynamic Resource Allocation absorbs, which it doesn't, and how HAMi is being rebuilt on top of DRA.
 - [OTel and Mesh-Derived Metrics: A 2026 Reference](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/) on the [CNCF](https://www.cncf.io/) blog, June 29, 2026. A reference on combining OpenTelemetry with service mesh-derived metrics.
 - [OTel and Mesh-Derived Metrics](https://www.buoyant.io/blog/otel-and-mesh-derived-metrics) on the [Buoyant](https://www.buoyant.io/) blog. OpenTelemetry and Linkerd service mesh metrics, where they complement each other and how to combine them in a unified observability pipeline.
 
 ### Publications
 
-- **Scheduling Capabilities Suite**, [CNCF](https://www.cncf.io/). Continuation of the prior scheduling series, work in progress. A scheduler-agnostic evaluation framework for cluster scheduling capabilities, fair-share, backfill, preemption, priority queues, and topology-aware placement, tested against real AI/ML workloads. Starting with Kueue, extended to Volcano and KAI Scheduler as the suite grows.
 - **AI Fabric Specialization for Agentic AI: From General-Purpose Inference to Autonomous, Long-Running Agent Workflows**, [Open Compute Project Foundation](https://www.opencompute.org/). AI HW/SW Co-Design Workgroup, co-author, publishing June 2026.
-- **[From Pods to Petaflops: Engineering Production AI and High Performance Computing on Kubernetes](https://www.packtpub.com/en-us/product/from-pods-to-petaflops-9781808349478)**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, 261 pages, publishing February 2027. What you will learn:
+- **[From Pods to Petaflops: Engineering Production AI and High Performance Computing on Kubernetes](https://www.packtpub.com/en-us/product/from-pods-to-petaflops-9781808349478)**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, 600+ pages, publishing February 2027. What you will learn:
   - Map SLURM, PBS, and LSF concepts to Kubernetes primitives
   - Schedule batch jobs with Kueue, MultiKueue, JobSet, and LeaderWorkerSet
   - Run distributed Python and AI workloads with Ray on Kubernetes
