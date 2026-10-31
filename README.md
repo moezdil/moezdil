@@ -69,7 +69,7 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 - **Scheduling Capabilities Suite**, [CNCF](https://www.cncf.io/). Continuation of the prior scheduling series, work in progress. A scheduler-agnostic evaluation framework for cluster scheduling capabilities, fair-share, backfill, preemption, priority queues, and topology-aware placement, tested against real AI/ML workloads. Starting with Kueue, extended to Volcano and KAI Scheduler as the suite grows.
 - **AI Fabric Specialization for Agentic AI: From General-Purpose Inference to Autonomous, Long-Running Agent Workflows**, [Open Compute Project Foundation](https://www.opencompute.org/). AI HW/SW Co-Design Workgroup, co-author, publishing June 2026.
-- **Cloud Native HPC and AI Infrastructure: Building High-Performance Computing Platforms with Kubernetes**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, ~432 pages, publishing November 2026.
+- **Cloud Native HPC and AI Infrastructure: Building High-Performance Computing Platforms with Kubernetes**, [Packt](https://www.packtpub.com/). Co-author with Sanjeev Ganjihal, ~432 pages, publishing February 2027.
 
 ### Languages and Tools
 
