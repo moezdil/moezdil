@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mesut Oezdil
+## Hi there, I'm Mesut Oezdil
 
 DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
@@ -12,17 +12,17 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 ![Nebius Agentic AI Builder](https://img.shields.io/badge/Nebius-Agentic%20AI%20Builder-0A5FFF?style=for-the-badge&logoColor=white)
 ![Nebius Fellow](https://img.shields.io/badge/Nebius-Fellow%20%7C%20Inaugural%20Cohort-0A5FFF?style=for-the-badge&logoColor=white)
 ![LiFT](https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/moezdil)
+[![Sponsor](https://img.shields.io/badge/Sponsor-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/moezdil)
 
 ### About me
 
-- 🔭 I'm currently working on:
+- I'm currently working on:
   - GPU virtualization on Kubernetes with Project HAMi
   - CUDA and GPU architecture with [CUDA, step by step](https://github.com/moezdil/CUDA)
   - IaC and zero-trust IAM with OpenTofu, Keycloak and Vault
-- ✍️ I write on [Medium](https://medium.com/@mesutoezdil) (real clusters, real output, no fluff) and [Substack](https://mesutoezdil.substack.com) (no AI-generated noise)
-- 📫 Find me on [Linktree](https://linktr.ee/mesutoezdil)
-- ❤️ If you like my work, you can [sponsor me](https://github.com/sponsors/moezdil)
+- I write on [Medium](https://medium.com/@mesutoezdil) (real clusters, real output, no fluff) and [Substack](https://mesutoezdil.substack.com) (no AI-generated noise)
+- Find me on [Linktree](https://linktr.ee/mesutoezdil)
+- If you like my work, you can [sponsor me](https://github.com/sponsors/moezdil)
 
 ### Projects
 
