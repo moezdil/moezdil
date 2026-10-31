@@ -81,7 +81,6 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![HAMi](https://img.shields.io/badge/HAMi-GPU%20Virtualization-C44B00?style=for-the-badge&logo=cncf&logoColor=white)
 ![kagent](https://img.shields.io/badge/kagent-AI%20Agents%20on%20K8s-A63200?style=for-the-badge&logo=argo&logoColor=white)
-![Cast AI](https://img.shields.io/badge/Cast%20AI-APA%20Hero-7B2D00?style=for-the-badge&logoColor=white)
 
 **Kubernetes and Cloud Native**
 
