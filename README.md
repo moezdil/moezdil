@@ -18,7 +18,6 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 - 🔭 I'm currently working on:
   - GPU virtualization on Kubernetes with Project HAMi
-  - AI agents as Kubernetes resources with kagent
   - CUDA and GPU architecture with [CUDA, step by step](https://github.com/moezdil/CUDA)
   - IaC and zero-trust IAM with OpenTofu, Keycloak and Vault
 - ✍️ I write on [Medium](https://medium.com/@mesutoezdil) (real clusters, real output, no fluff) and [Substack](https://mesutoezdil.substack.com) (no AI-generated noise)
@@ -80,7 +79,6 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![HAMi](https://img.shields.io/badge/HAMi-GPU%20Virtualization-C44B00?style=for-the-badge&logo=cncf&logoColor=white)
-![kagent](https://img.shields.io/badge/kagent-AI%20Agents%20on%20K8s-A63200?style=for-the-badge&logo=argo&logoColor=white)
 
 **Kubernetes and Cloud Native**
 
