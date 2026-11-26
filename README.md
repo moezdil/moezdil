@@ -20,7 +20,6 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 - I'm currently working on:
   - GPU virtualization on Kubernetes with Project HAMi
   - CUDA and GPU architecture with [CUDA, step by step](https://github.com/moezdil/CUDA)
-  - IaC and zero-trust IAM with OpenTofu, Keycloak and Vault
 - I write on [Medium](https://medium.com/@mesutoezdil) (real clusters, real output, no fluff) and [Substack](https://mesutoezdil.substack.com) (no AI-generated noise)
 - Find me on [Linktree](https://linktr.ee/mesutoezdil)
 - If you like my work, you can [sponsor me](https://github.com/sponsors/moezdil)
