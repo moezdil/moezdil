@@ -16,6 +16,7 @@ DevOps Engineer and Tech Lead of the CNCF TAG Infrastructure.
 
 ### About me
 
+- In tech since 2011. The contribution graph here shows only part of my work: much of it lives on GitLab and in private company repositories
 - I'm currently working on:
   - GPU virtualization on Kubernetes with Project HAMi
   - CUDA and GPU architecture with [CUDA, step by step](https://github.com/moezdil/CUDA)
